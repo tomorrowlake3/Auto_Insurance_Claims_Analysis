@@ -26,6 +26,11 @@ A mid-sized auto insurer's claims portfolio is showing a 24.7% fraud rate, with 
 ## Recommendation
 
 > **Route claims with 2 or more red flags to the Special Investigations Unit. This concentrates investigation effort on 28% of the portfolio while catching 38% of all fraud cases — $5.5M in fraud dollars.**
+ ## 🔴 Live Interactive Dashboard
+
+**[View the live dashboard on Tableau Public →](https://public.tableau.com/app/profile/tomorrow.lake5414/viz/auto_insurance_dashboard/AutoInsuranceClaimsDashboar)**
+
+A three-view interactive dashboard exploring fraud patterns across the claims portfolio. Includes a KPI overview, fraud rate breakdowns by incident severity and red flag count, and top fraud-risk profiles ranked by combined severity and incident type.
 
 State, gender, and policy tenure showed no meaningful correlation with fraud and should not be used as targeting variables.
 
