@@ -36,7 +36,7 @@ State, gender, and policy tenure showed no meaningful correlation with fraud and
 
 ## 📄 Executive Memo
 
-**[View the executive memo (PDF) →](05_deliverables/executive_memo.pdf)**
+**[View the executive memo (PDF) →](05_deliverables/Executive%20Memo.pdf)**
 
 A 2-page memo summarizing the analysis, recommendation, and next steps for the Director of Claims Operations.
 
