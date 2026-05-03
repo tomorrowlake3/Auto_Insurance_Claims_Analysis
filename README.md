@@ -34,6 +34,12 @@ A three-view interactive dashboard exploring fraud patterns across the claims po
 
 State, gender, and policy tenure showed no meaningful correlation with fraud and should not be used as targeting variables.
 
+## 📄 Executive Memo
+
+**[View the executive memo (PDF) →](05_deliverables/executive_memo.pdf)**
+
+A 2-page memo summarizing the analysis, recommendation, and next steps for the Director of Claims Operations.
+
 ## Tools used
 
 - **SQL** — exploratory data queries against the cleaned dataset
